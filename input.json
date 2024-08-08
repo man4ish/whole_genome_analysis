@@ -1,0 +1,27 @@
+{
+  "WholeGenomeAnalysis.fastq_file1": "/path/to/sample_R1.fastq",
+  "WholeGenomeAnalysis.fastq_file2": "/path/to/sample_R2.fastq",
+  "WholeGenomeAnalysis.known_sites": "/path/to/known_sites.vcf",
+  "WholeGenomeAnalysis.reference": "/path/to/reference.fasta",
+  "WholeGenomeAnalysis.output_prefix": "sample_analysis",
+  "WholeGenomeAnalysis.adapter_file": "/path/to/adapters.fasta",
+  "WholeGenomeAnalysis.memory_trim": 8,
+  "WholeGenomeAnalysis.cpu_trim": 4,
+  "WholeGenomeAnalysis.disk_trim": 20,
+  "WholeGenomeAnalysis.memory_align": 16,
+  "WholeGenomeAnalysis.cpu_align": 8,
+  "WholeGenomeAnalysis.disk_align": 50,
+  "WholeGenomeAnalysis.memory_bqsr": 16,
+  "WholeGenomeAnalysis.cpu_bqsr": 8,
+  "WholeGenomeAnalysis.disk_bqsr": 30,
+  "WholeGenomeAnalysis.memory_hc": 16,
+  "WholeGenomeAnalysis.cpu_hc": 8,
+  "WholeGenomeAnalysis.disk_hc": 30,
+  "WholeGenomeAnalysis.memory_gg": 16,
+  "WholeGenomeAnalysis.cpu_gg": 8,
+  "WholeGenomeAnalysis.disk_gg": 30,
+  "WholeGenomeAnalysis.memory_vf": 16,
+  "WholeGenomeAnalysis.cpu_vf": 8,
+  "WholeGenomeAnalysis.disk_vf": 20
+}
+
